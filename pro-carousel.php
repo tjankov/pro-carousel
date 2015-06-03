@@ -7,9 +7,7 @@
  * @package           Pro_Carousel
  *
  * @wordpress-plugin
- * Plugin Name:       Pro Automatika Carousel
  * Plugin URI:        http://studio.croati.co
- * Description:       Carousel za Pro Automatiku d.o.o.
  * Version:           1.0.0
  * Author:            Tonino Jankov
  * Author URI:        http://studio.croati.co
